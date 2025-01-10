@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, World! I'm Aina 🌺 </h1>
+<h1 align="center">👋 Hello, World! My name is Aina 🌺 </h1>
 
 <h3 align="center">Final Year in University of Hawaii - West Oahu (UHWO): <br> Preparing to transition in to the workforce! Looking for new opportunities and to grow together as a team!</h3>
 Currently preparing to transition into the workforce. Always on the lookout for new opportunities and eager to collaborate and grow in a team setting! :)
