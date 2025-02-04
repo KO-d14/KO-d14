@@ -5,7 +5,7 @@
 ---
 
 ### 🌱 What I’m Learning
-- **How to build quizz apps with Swift**  
+- **How to build quiz apps with Swift**  
 
 ### 🔭 What I’m Currently Working On
 - **Capstone Project**: Developing a mobile application from scratch as part of my final year project.
